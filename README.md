@@ -6,4 +6,4 @@ Compile using your favourite C compiler (tested with `clang`).
 
 Dump a raw binary image (eg. from a HDD, SSD, SD card, etc.) and save as `card.raw` into the same directory as the compiled executable.
 
-Execute the program with `./recover`
+Execute the program with `./recover`. Any JPEG images that are found will be saved in the working directory.
